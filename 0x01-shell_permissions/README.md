@@ -1,1 +1,1 @@
-6. Multiple permissions
+task 6.Multiple permissions
